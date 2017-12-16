@@ -29,7 +29,8 @@ gem 'jbuilder', '~> 2.5'
 # gem 'redis', '~> 3.0'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
-
+# Authentication with devise
+gem 'devise'
 # Add pictures functionality
 gem 'carrierwave'
 # Use Capistrano for deployment
